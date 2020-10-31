@@ -1,0 +1,9 @@
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\bin\Debug\LoginEsenha.exe.config
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\bin\Debug\LoginEsenha.exe
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\bin\Debug\LoginEsenha.pdb
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.csprojAssemblyReference.cache
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.Form1.resources
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.Properties.Resources.resources
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.exe
+C:\Users\gusta\Desktop\LoginEsenha\LoginEsenha\obj\Debug\LoginEsenha.pdb
